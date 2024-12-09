@@ -6,102 +6,85 @@
     "thumbnails": "thumbnails",
     "height": 7942,
     "width": 7936,
+    "thumbnails_height": 1500,
+    "thumbnails_width": 1499,
     "voxel": [0.0002273,0.0002277,0.002],
-    "stack": [
-        { 
-            "name" : "Plane000.jpg", 
+    "stack": {
+        "Plane000.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0]
         },
-        { 
-            "name" : "Plane001.jpg", 
+        "Plane001.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.002]
         },
-        { 
-            "name" : "Plane002.jpg", 
+        "Plane002.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.004]
         },
-        { 
-            "name" : "Plane003.jpg", 
+        "Plane003.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.006]
         },
-        { 
-            "name" : "Plane004.jpg", 
-            "PixelRatio" : [0.0002273,0.0002277],
-            "SlicePosition" : [0,0,0.006]
-        },
-        { 
-            "name" : "Plane005.jpg", 
+        "Plane004.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.008]
         },
-        { 
-            "name" : "Plane006.jpg", 
+        "Plane005.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.01]
         },
-        { 
-            "name" : "Plane007.jpg", 
+        "Plane006.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.012]
         },
-        { 
-            "name" : "Plane008.jpg", 
+        "Plane007.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.014]
         },
-        { 
-            "name" : "Plane009.jpg", 
+        "Plane008.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.016]
         },
-        { 
-            "name" : "Plane010.jpg", 
+        "Plane009.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.018]
         },
-        { 
-            "name" : "Plane011.jpg", 
+        "Plane010.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.02]
         },
-        { 
-            "name" : "Plane012.jpg", 
+        "Plane011.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.022]
         },
-        { 
-            "name" : "Plane013.jpg", 
+        "Plane012.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.024]
         },
-        { 
-            "name" : "Plane014.jpg", 
+        "Plane013.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.026]
         },
-        { 
-            "name" : "Plane015.jpg", 
+        "Plane014.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.028]
         },
-        { 
-            "name" : "Plane016.jpg", 
+        "Plane015.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.03]
         },
-        { 
-            "name" : "Plane017.jpg", 
+        "Plane016.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.032]
         },
-        { 
-            "name" : "Plane018.jpg", 
+        "Plane017.jpg" : { 
             "PixelRatio" : [0.0002273,0.0002277],
             "SlicePosition" : [0,0,0.034]
+        },
+        "Plane018.jpg" : { 
+            "PixelRatio" : [0.0002273,0.0002277],
+            "SlicePosition" : [0,0,0.036]
         }
-    ]
+    }
 }
